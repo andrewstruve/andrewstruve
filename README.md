@@ -1,4 +1,5 @@
 ### Hi there 👋
+### So apparently this is a secret that I discovered if you create a repo with your username you get this to show up on your github profile.
 
 <!--
 **andrewstruve/andrewstruve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
